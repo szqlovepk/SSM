@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import szq.loveonly.entity.Seckill;
 
-/*
+/* 测试
  * 配置spring和junit整合 junit启动时加载springIOC容器
  * spring-test ,junit
  * */
